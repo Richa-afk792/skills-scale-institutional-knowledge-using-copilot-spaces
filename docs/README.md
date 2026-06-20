@@ -1,6 +1,7 @@
 # OctoAcme Project Management — Docs Overview
 
 This folder contains the process documentation for OctoAcme's cross-functional project management approach. The guides here apply to all projects that deliver product features, services, or integrations.
+Use this README as the central index for the OctoAcme Project Management Docs.
 
 ## Process Overview
 
