@@ -75,7 +75,54 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA / Testing Contributors
+
+### Role Summary
+QA / Testing contributors validate that planned work meets acceptance criteria and is ready to move safely toward release. They partner with developers, PMs, and PdMs to make quality visible throughout execution instead of only at the end.
+
+### Responsibilities
+- Review acceptance criteria and test plans during planning
+- Validate implemented work in QA and staging environments
+- Identify gaps in coverage, regressions, and release risks
+- Confirm production readiness for high-risk or customer-facing changes
+- Share defect trends and quality signals with the delivery team
+
+### Goals
+- Catch defects before production release
+- Improve confidence in delivery quality and release readiness
+- Keep quality expectations aligned across product, engineering, and project leads
+
+### Typical Communication
+- Test plan reviews with Product Managers and Developers
+- Defect reports, QA sign-off notes, and release readiness updates
+- Coordination with Project Managers on quality risks, timing, and escalation
+
+---
+
+## Sponsors / Stakeholders
+
+### Role Summary
+Sponsors and stakeholders provide strategic direction, approvals, and business context for OctoAcme projects. They help teams stay aligned on outcomes, timelines, and cross-functional dependencies.
+
+### Responsibilities
+- Align on business goals, scope, and success metrics at project kickoff
+- Review major milestones, risks, and trade-off decisions
+- Approve significant scope, timeline, or investment changes when needed
+- Provide input from impacted teams such as support, sales, or leadership
+- Help unblock escalations that require cross-team coordination or executive support
+
+### Goals
+- Ensure project work stays aligned to organizational priorities
+- Reduce delivery risk by resolving blockers and clarifying decisions quickly
+- Maintain visibility into progress, outcomes, and business impact
+
+### Typical Communication
+- Kickoff reviews, milestone demos, and monthly stakeholder updates
+- Decision logs and escalation summaries from Project Managers and Product Managers
+- Release communications and post-incident follow-up when business impact is high
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
